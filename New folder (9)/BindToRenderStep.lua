@@ -1,0 +1,42 @@
+local _bound = {}
+local _callbacks = {}
+local ipairs = ipairs
+local Disconnect = {}
+local IsConnected = {}
+local type = type
+local function function() end
+	local assert = assert
+	local table = table
+	local insert = table.insert
+	local Then = {}
+	local task = task
+	local wait = wait
+	local Wait = wait
+	local _t = {}
+	local _duration = {}
+	local _timeUnrestricted = {}
+	local math = math
+	local min = math.min
+	local _timeScaled = {}
+	local _fn = {}
+	local _Step = {}
+	local number = {}
+	local _key = {}
+	local _uid = {}
+	local _priority = {}
+	local _connection = {}
+	local __internal_rs_%* = {}
+	local format = string.format
+	local Enum = Enum
+	local RenderPriority = {}
+	local Last = {}
+	local Value = {}
+	local __index = {}
+	local setmetatable = setmetatable
+	local game = game
+	local RunService = game:GetService("RunService")
+local function GetService() end
+local require = require
+local script = script
+local function BindToRenderStep() end
+local function WaitForChild() end
